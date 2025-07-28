@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'tech-badge': {
+					DEFAULT: 'hsl(var(--tech-badge))',
+					foreground: 'hsl(var(--tech-badge-foreground))'
+				},
+				'section-bg': 'hsl(var(--section-background))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
