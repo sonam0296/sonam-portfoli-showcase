@@ -24,7 +24,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="font-bold text-xl text-foreground">
-            <span className="text-primary">ABC</span> Developer
+            <span className="text-primary">Sonam</span>
           </div>
 
           {/* Desktop Navigation */}

@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <h3 className="text-xl font-bold">
-              <span className="text-primary">ABC</span> Developer
+              <span className="text-primary">Sonam</span>
             </h3>
             <p className="text-background/80">
               Full Stack Developer specializing in MERN stack and AWS cloud solutions. 
@@ -37,7 +37,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h4 className="font-semibold">Get In Touch</h4>
             <div className="space-y-2 text-background/80">
-              <p>abc@example.com</p>
+              <p>sonam@example.com</p>
               <p>+1 (555) 123-4567</p>
               <p>Available for remote work</p>
             </div>
@@ -57,7 +57,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="border-t border-background/20 pt-8 text-center text-background/60">
-          <p>&copy; 2024 ABC Developer. All rights reserved.</p>
+          <p>&copy; 2024 Sonam Developer. All rights reserved.</p>
         </div>
       </div>
     </footer>

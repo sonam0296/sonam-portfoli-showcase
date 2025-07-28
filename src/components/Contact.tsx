@@ -60,11 +60,11 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-foreground">Email</h4>
-                  <p className="text-muted-foreground">abc@example.com</p>
+                  <p className="text-muted-foreground">sonam43jha@gmail.com</p>
                 </div>
               </div>
 
-              <div className="flex items-center gap-4">
+              {/* <div className="flex items-center gap-4">
                 <div className="w-12 h-12 bg-primary/10 text-primary rounded-lg flex items-center justify-center">
                   <Phone className="h-5 w-5" />
                 </div>
@@ -72,7 +72,7 @@ const Contact = () => {
                   <h4 className="font-medium text-foreground">Phone</h4>
                   <p className="text-muted-foreground">+1 (555) 123-4567</p>
                 </div>
-              </div>
+              </div> */}
 
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 bg-primary/10 text-primary rounded-lg flex items-center justify-center">

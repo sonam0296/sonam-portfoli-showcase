@@ -20,7 +20,7 @@ const Hero = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-                Hi, I'm <span className="text-primary">ABC</span>
+                Hi, I'm <span className="text-primary">Sonam</span>
               </h1>
               <h2 className="text-2xl lg:text-3xl text-muted-foreground font-medium">
                 Full Stack Developer
@@ -67,7 +67,7 @@ const Hero = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img 
                 src={heroImage} 
-                alt="ABC - Software Developer" 
+                alt="Sonam - Software Developer" 
                 className="w-full h-[500px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent" />
