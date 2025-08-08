@@ -12,8 +12,8 @@ const Footer = () => {
               <span className="text-primary">Sonam</span>
             </h3>
             <p className="text-background/80">
-              Full Stack Developer specializing in MERN stack and AWS cloud solutions. 
-              Building scalable applications that make a difference.
+              Full Stack Developer specializing in MERN stack and AWS cloud
+              solutions. Building scalable applications that make a difference.
             </p>
           </div>
 
@@ -37,18 +37,30 @@ const Footer = () => {
           <div className="space-y-4">
             <h4 className="font-semibold">Get In Touch</h4>
             <div className="space-y-2 text-background/80">
-              <p>sonam@example.com</p>
-              <p>+1 (555) 123-4567</p>
+              <p>sonam43jha@gmail.com</p>
+              {/* <p>+1 (555) 123-4567</p> */}
               <p>Available for remote work</p>
             </div>
             <div className="flex gap-2">
-              <Button variant="outline" size="icon" className="border-background/20 hover:bg-background hover:text-foreground">
+              <Button
+                variant="outline"
+                size="icon"
+                className=" hover:bg-background hover:text-foreground"
+              >
                 <Github className="h-4 w-4" />
               </Button>
-              <Button variant="outline" size="icon" className="border-background/20 hover:bg-background hover:text-foreground">
+              <Button
+                variant="outline"
+                size="icon"
+                className="border-background/20 hover:bg-background hover:text-foreground"
+              >
                 <Linkedin className="h-4 w-4" />
               </Button>
-              <Button variant="outline" size="icon" className="border-background/20 hover:bg-background hover:text-foreground">
+              <Button
+                variant="outline"
+                size="icon"
+                className="border-background/20 hover:bg-background hover:text-foreground"
+              >
                 <Mail className="h-4 w-4" />
               </Button>
             </div>
